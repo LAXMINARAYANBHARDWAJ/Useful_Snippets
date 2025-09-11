@@ -1,8 +1,7 @@
-# Useful Python Snippets
+# Useful_Snippets
 
-A collection of small, miscellaneous Python programs and scripts.  
+A collection of small, miscellaneous multi-language programs and scripts.  
 Some are practical utilities, some are quirky experiments — all are shared openly under the MIT License for anyone who finds them useful.  
-(There might be some C++ programs too :)
 
 ## Features
 - Lightweight, no unnecessary dependencies
@@ -13,6 +12,6 @@ Some are practical utilities, some are quirky experiments — all are shared ope
 Clone the repository and run any script directly:
 
 ```bash
-git clone https://github.com/LAXMINARAYANBHARDWAJ/MiscPythonPrograms.git
-cd MiscPythonPrograms
-python3 script_name.py
+# Clone the repository
+git clone https://github.com/LAXMINARAYANBHARDWAJ/Useful_Snippets.git
+cd Useful_Snippets
